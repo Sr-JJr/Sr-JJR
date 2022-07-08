@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Jurandi Junior e estou desenvolvendo minhas habilidades de Dev
 ##
-Atualmente com conhecimentos base de FrontEnd em: HTML, CSS e JavaScript (Estudando).
+Atualmente com conhecimentos base de FrontEnd em: HTML5, CSS3 e JavaScript.
 
-Pretendo estudar a liguagem BackEnd: Java.
+Estudando a liguagem BackEnd: Java.
 
 <img align="center" alt="Projeto-Site" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Projeto-Site" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
